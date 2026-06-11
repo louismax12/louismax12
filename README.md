@@ -13,7 +13,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 
 #### Front-End Development
 ![HTML5](https://shields.io)
-[![CSS3](https://shields.io/badge/CSS3-214CE5?style=for-the-badge&logo=css&logoColor=214CE5)](https://www.w3schools.com/css/)
+[![CSS3](https://shields.io/badge/CSS3-214CE5?style=for-the-badge&logo=css&logoColor=20232A)](https://www.w3schools.com/css/)
 [![JavaScript](https://shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=20232A)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)](https://react.dev/learn)
 ![TailwindCSS](https://shields.io)
