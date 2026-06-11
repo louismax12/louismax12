@@ -46,6 +46,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 [![PHP](https://shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://shields.io/badge/MySQL-00608C?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://shields.io/badge/PostgreSQL-00608C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PythonL](https://shields.io/badge/Python-00608C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 #### Tools & DevOps
 [![Git](https://shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
