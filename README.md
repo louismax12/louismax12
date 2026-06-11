@@ -10,7 +10,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 ---
 
 <details>
-  <summary>🇮🇩 <b>Klik untuk Bahasa Indonesia</b></summary>
+  <summary> Tentang Saya <b>Klik untuk Bahasa Indonesia</b></summary>
   
   ### 👨‍💻 Tentang Saya
   Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang responsif, cepat, dan interaktif. Saya senang mempelajari teknologi baru dan mengubah ide menjadi baris kode yang fungsional.
@@ -21,7 +21,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 </details>
 
 <details open>
-  <summary>🇬🇧 <b>Click for English</b></summary>
+  <summary> About Me <b>Click for English</b></summary>
   
   ### 👨‍💻 About Me
   I am a **Web Developer** focused on building responsive, fast, and interactive web applications. I enjoy learning new technologies and turning ideas into functional lines of code.
