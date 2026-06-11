@@ -19,7 +19,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 ![TailwindCSS](https://shields.io)
 
 #### Back-End Development & Database
-![NodeJS]((https://shields.io)
+![NodeJS](https://shields.io)
 ![Express.js](https://shields.io)
 ![PHP](https://shields.io)
 ![MySQL](https://shields.io)
