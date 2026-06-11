@@ -9,6 +9,28 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 
 ---
 
+<details>
+  <summary>🇮🇩 <b>Klik untuk Bahasa Indonesia</b></summary>
+  
+  ### 👨‍💻 Tentang Saya
+  Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang responsif, cepat, dan interaktif. Saya senang mempelajari teknologi baru dan mengubah ide menjadi baris kode yang fungsional.
+
+  - 🚀 Saat ini saya sedang belajar/mengembangkan: **PHP Native, SQL, Agentic AI, Python, dan Rest API**
+  - 💼 Terbuka untuk kesempatan kerja: **Full-time / Freelance**
+  - 📫 Cara menghubungi saya: **lsmaximillian@gmail.com** atau melalui LinkedIn: Louis Maximillian.
+</details>
+
+<details open>
+  <summary>🇬🇧 <b>Click for English</b></summary>
+  
+  ### 👨‍💻 About Me
+  I am a **Web Developer** focused on building responsive, fast, and interactive web applications. I enjoy learning new technologies and turning ideas into functional lines of code.
+
+  - 🚀 Currently learning/developing: **PHP Native, SQL, Agentic AI, Python, and REST API**
+  - 💼 Open to work opportunities: **Full-time / Freelance**
+  - 📫 How to reach me: **lsmaximillian@gmail.com** or via LinkedIn: Louis Maximillian.
+</details>
+
 ### 🛠️ Teknologi & Tools yang Saya Gunakan
 
 #### Front-End Development
