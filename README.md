@@ -39,8 +39,7 @@ Pencapaian dan aktivitas coding saya yang diperbarui secara otomatis:
 
 | Statistik Umum | Bahasa Pemrograman Terbanyak |
 | :---: | :---: |
-| <img src="https://vercel.app" alt="Statistik GitHub USERNAME_ANDA" width="400px"/> | <img src="https://vercel.app" alt="Bahasa Terbanyak USERNAME_ANDA" width="400px"/> |
-
+| <img src="https://github-readme-stats.vercel.app/api?username=louisukdc&show_icons=true&theme=radical" alt="Statistik GitHub" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisukdc&layout=compact&theme=radical" alt="Bahasa Terbanyak" width="400px"/> |
 ---
 
 ### 🤝 Mari Terhubung!
