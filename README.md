@@ -15,7 +15,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
-![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![[Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)](https://react.dev/learn)
 ![TailwindCSS](https://shields.io)
 
 #### Back-End Development & Database
