@@ -21,7 +21,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 #### Back-End Development & Database
 ![NodeJS](https://img.shields.io/sonar/coverage/gitify-app_gitify).
 ![Express.js](https://shields.io)
-![PHP](https://shields.io)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://shields.io)
 ![PostgreSQL](https://shields.io)
 
@@ -43,5 +43,5 @@ Pencapaian dan aktivitas coding saya yang diperbarui secara otomatis:
 ---
 
 ### 🤝 Mari Terhubung!
-[![Linkedin](https://img.shields.io/badge/Instagram-@louismaximillian-E4405F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-maximillian-8889332ab/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-@louismaximillian-E4405F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-maximillian-8889332ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-@maximillianlouisaccount-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
