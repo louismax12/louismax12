@@ -26,9 +26,10 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 [![PostgreSQL](https://shields.io/badge/PostgreSQL-00608C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 #### Tools & DevOps
-![Git](https://shields.io)
-![VS Code](https://shields.io)
-![Postman](https://shields.io)
+[![Git](https://shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VisualCode](https://shields.io/badge/VisualCode-blue?style=for-the-badge&logo=visualcode&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://shields.io/badge/Postman-F05033?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 
 ---
 
