@@ -22,7 +22,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 [![NodeJS](https://shields.io/badge/NodeJS-4CB051?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en)
 [![ExpressJS](https://shields.io/badge/ExpressJS-222222?style=for-the-badge&logo=express.js&logoColor=214CE5)](https://expressjs.com/en/)
 [![PHP](https://shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-![MySQL](https://shields.io)
+[![MySQL](https://shields.io/badge/MySQL-00608C?style=for-the-badge&logo=mysql&logoColor=E58D00)](https://www.mysql.com/)
 ![PostgreSQL](https://shields.io)
 
 #### Tools & DevOps
