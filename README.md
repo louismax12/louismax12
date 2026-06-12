@@ -5,7 +5,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 
 - 🚀 Saat ini saya sedang belajar/mengembangkan: **PHP Native, SQL, Agentic AI, Python, dan Rest API**
 - 💼 Terbuka untuk kesempatan kerja: **Full-time / Freelance**
-- 📫 Cara menghubungi saya: **lsmaximillian@gmail.com** atau melalui LinkedIn: Louis Maximillian.
+- 📫 Cara menghubungi saya: **Email: lsmaximillian@gmail.com** atau melalui LinkedIn: Louis Maximillian.
 
 ---
 
