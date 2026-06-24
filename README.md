@@ -29,7 +29,7 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
   - 🚀 Currently learning/developing: **PHP Native, SQL, Agentic AI, Python, and REST API**
   - 💼 Open to work opportunities: **Full-time / Freelance**
   - 📫 How to reach me: **lsmaximillian@gmail.com** or via LinkedIn: Louis Maximillian.
-  - [![Louis has Portofolio](https://shields.io/badge/Internet-38BDF8?style=for-the-badge&logo=internet&logoColor=FFFFFF)](https://portfolio-chi-topaz-86ik20c3kx.vercel.app/)
+  - [![Louis has Portofolio](https://shields.io/badge/Louis has Porotofolio-38BDF8?style=for-the-badge&logo=internet&logoColor=FFFFFF)](https://portfolio-chi-topaz-86ik20c3kx.vercel.app/)
 </details>
 
 ### 🛠️ Teknologi & Tools yang Saya Gunakan
