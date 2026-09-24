@@ -80,14 +80,14 @@
 ### 📊 Statistik GitHub / GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louismax12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Louis's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=louismax12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=louismax12&theme=radical&no-frame=true&column=6" alt="Louis's GitHub Trophies" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louismax12&theme=radical&hide_border=true" alt="GitHub Streak" width="810" />
+  <img src="https://github-readme-stats.vercel.app/api?username=louismax12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Louis's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louismax12&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 ---
