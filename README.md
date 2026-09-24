@@ -75,19 +75,16 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
 [![Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 
----
-
 ### 📊 Statistik GitHub / GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=louismax12&theme=radical&no-frame=true&column=6" alt="Louis's GitHub Trophies" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=louismax12&theme=radical" alt="Louis's GitHub Activity Graph" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louismax12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Louis's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louismax12&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louismax12&theme=radical&hide_border=true" alt="GitHub Streak" width="90%" />
 </div>
 
 ---
