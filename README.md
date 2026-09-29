@@ -75,6 +75,19 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
 [![Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 
+### 🌊 3D Voxel Ocean Simulation (Interactive)
+
+<div align="center">
+  <p>Saya baru saja menambahkan simulasi laut 3D interaktif menggunakan <b>Three.js</b> (berbasis Voxel)! Karena GitHub Markdown tidak dapat menjalankan script 3D secara langsung, kamu bisa mencoba kode interaktifnya dengan membuka file HTML yang tersedia di repositori ini.</p>
+  <a href="./3d-ocean.html">
+    <img src="https://img.shields.io/badge/Lihat_File_3D_Ocean-38BDF8?style=for-the-badge&logo=three.js&logoColor=black" alt="3D Ocean Simulation" />
+  </a>
+</div>
+
+<br />
+
+---
+
 ### 📊 Statistik GitHub / GitHub Analytics
 
 <div align="center">
